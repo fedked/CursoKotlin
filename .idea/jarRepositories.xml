@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central-mirror" />
+      <option name="name" value="central-mirror" />
+      <option name="url" value="http://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="adobe-remote-snapshots" />
+      <option name="name" value="adobe-remote" />
+      <option name="url" value="https://painel.repodep.des.cloud.ihf:443/artifactory/maven-devel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="adobe-remote-central" />
+      <option name="name" value="adobe-remote" />
+      <option name="url" value="https://painel.repodep.des.cloud.ihf:443/artifactory/adobe-remote" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="painel.repodep" />
+      <option name="name" value="painel.repodep" />
+      <option name="url" value="http://painel.repodep.des.cloud.ihf/artifactory/maven-devel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="maven-remotes" />
+      <option name="url" value="https://artifactory.prod.aws.cloud.ihf:443/artifactory/maven-remotes" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots2" />
+      <option name="name" value="maven-remotes" />
+      <option name="url" value="https://artifactory.prod.aws.cloud.ihf:443/artifactory/itau-ev8-maven-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="maven-devel" />
+      <option name="url" value="http://depdes.artifactory.prod.cloud.ihf/artifactory/maven-devel2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="adobe-remote-central" />
+      <option name="name" value="adobe-remote" />
+      <option name="url" value="http://painel.repodep.des.cloud.ihf/artifactory/adobe-remote" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mavenCentral" />
+      <option name="name" value="mavenCentral" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="maven-devel" />
+      <option name="url" value="http://depdes.artifactory.prod.cloud.ihf/artifactory/itau-ev8-canais-nao-assistidos-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="iti-nexus" />
+      <option name="name" value="Iti Nexus Repository" />
+      <option name="url" value="https://repo-iti.zup.com.br/repository/iti-jars-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central2" />
+      <option name="name" value="maven-remotes" />
+      <option name="url" value="https://artifactory.prod.aws.cloud.ihf:443/artifactory/gradle-remotes" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="painel.repodep.compopen" />
+      <option name="name" value="painel.repodep.compopen" />
+      <option name="url" value="http://painel.repodep.des.cloud.ihf/artifactory/itau-comp-open-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory-external" />
+      <option name="name" value="artifactory" />
+      <option name="url" value="depdes.artifactory.prod.cloud.ihf/artifactory/maven-external-development" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory" />
+      <option name="name" value="artifactory" />
+      <option name="url" value="http://depdes.artifactory.prod.cloud.ihf/artifactory/maven-devel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="adobe-remote-snapshots" />
+      <option name="name" value="adobe-remote" />
+      <option name="url" value="http://painel.repodep.des.cloud.ihf/artifactory/maven-devel" />
+    </remote-repository>
+  </component>
+</project>
